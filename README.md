@@ -4,6 +4,7 @@ A curated list of algorithmic challenges websites.
 
 - Communities
   - [CheckiO](http://www.checkio.org/)
+  - [CodeFights](https://codefights.com/)
   - [Codewars](http://www.codewars.com/)
   - [HackerRank](https://www.hackerrank.com/)
   - [Project Euler](https://projecteuler.net/)
