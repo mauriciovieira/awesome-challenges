@@ -6,6 +6,7 @@ A curated list of algorithmic challenges websites.
   - [CheckiO](http://www.checkio.org/)
   - [Codewars](http://www.codewars.com/)
   - [HackerRank](https://www.hackerrank.com/)
+  - [Project Euler](https://projecteuler.net/)
 
 - Companies
   - [Codility](https://codility.com/programmers/challenges/)
