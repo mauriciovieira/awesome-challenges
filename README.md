@@ -12,6 +12,7 @@ A curated list of algorithmic challenges websites.
 
 - Companies
   - [Codility](https://codility.com/programmers/challenges/)
+  - [smarterer](http://smarterer.com/tests/categories/Programming)
   - [topcoder](https://www.topcoder.com/challenges/)
 
 
