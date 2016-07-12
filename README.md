@@ -11,6 +11,7 @@ A curated list of algorithmic challenges websites.
   - [Project Euler](https://projecteuler.net/)
 
 - Companies
+  - [beat.my.code();](http://www.beatmycode.com/challenges)
   - [Codility](https://codility.com/programmers/challenges/)
   - [smarterer](http://smarterer.com/tests/categories/Programming)
   - [topcoder](https://www.topcoder.com/challenges/)
