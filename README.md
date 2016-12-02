@@ -9,6 +9,10 @@ A curated list of algorithmic challenges websites.
   - [CodinGame](https://www.codingame.com/start)
   - [HackerRank](https://www.hackerrank.com/)
   - [Project Euler](https://projecteuler.net/)
+  - [Free Code Camp](https://www.freecodecamp.com/)
+  - [exercism.io](http://exercism.io/)
+  - [ROSALIND](http://rosalind.info/)
+  - [Screeps](https://screeps.com/)
 
 - Companies
   - [beat.my.code();](http://www.beatmycode.com/challenges)
