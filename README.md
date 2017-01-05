@@ -8,11 +8,14 @@ A curated list of algorithmic challenges websites.
 - [Codewars](http://www.codewars.com/)
 - [Codility](https://codility.com/programmers/challenges/)
 - [CodinGame](https://www.codingame.com/start)
+- [exercism.io](http://exercism.io/)
+- [Free Code Camp](https://www.freecodecamp.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
+- [ROSALIND](http://rosalind.info/)
+- [Screeps](https://screeps.com/)
 - [smarterer](http://smarterer.com/tests/categories/Programming)
 - [topcoder](https://www.topcoder.com/challenges/)
-
 
 ## License
 
