@@ -2,7 +2,6 @@
 
 A curated list of algorithmic challenges websites.
 
-- [beat.my.code();](http://www.beatmycode.com/challenges)
 - [CheckiO](http://www.checkio.org/)
 - [CodeCombat](https://codecombat.com/)
 - [CodeFights](https://codefights.com/)
