@@ -4,7 +4,9 @@ A curated list of algorithmic challenges websites.
 
 - [beat.my.code();](http://www.beatmycode.com/challenges)
 - [CheckiO](http://www.checkio.org/)
+- [CodeCombat](https://codecombat.com/)
 - [CodeFights](https://codefights.com/)
+- [CodeHunt](https://www.codehunt.com/)
 - [Codewars](http://www.codewars.com/)
 - [Codility](https://codility.com/programmers/challenges/)
 - [CodinGame](https://www.codingame.com/start)
@@ -16,6 +18,7 @@ A curated list of algorithmic challenges websites.
 - [Screeps](https://screeps.com/)
 - [smarterer](http://smarterer.com/tests/categories/Programming)
 - [topcoder](https://www.topcoder.com/challenges/)
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 
 ## License
 
