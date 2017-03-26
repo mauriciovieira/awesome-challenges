@@ -12,6 +12,7 @@ A curated list of algorithmic challenges websites.
 - [exercism.io](http://exercism.io/)
 - [Free Code Camp](https://www.freecodecamp.com/)
 - [HackerRank](https://www.hackerrank.com/)
+- [Kattis](https://open.kattis.com/)
 - [Project Euler](https://projecteuler.net/)
 - [ROSALIND](http://rosalind.info/)
 - [Screeps](https://screeps.com/)
