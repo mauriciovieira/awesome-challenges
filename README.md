@@ -2,6 +2,7 @@
 
 A curated list of algorithmic challenges websites.
 
+- [CareerCup](https://www.careercup.com/page)
 - [CheckiO](http://www.checkio.org/)
 - [CodeCombat](https://codecombat.com/)
 - [CodeFights](https://codefights.com/)
@@ -12,8 +13,10 @@ A curated list of algorithmic challenges websites.
 - [exercism.io](http://exercism.io/)
 - [Free Code Camp](https://www.freecodecamp.com/)
 - [HackerRank](https://www.hackerrank.com/)
+- [InterviewBit](https://www.interviewbit.com/)
 - [Interview Cake](https://interviewcake.com/)
 - [Kattis](https://open.kattis.com/)
+- [LeetCode](https://leetcode.com/)
 - [Project Euler](https://projecteuler.net/)
 - [ROSALIND](http://rosalind.info/)
 - [Screeps](https://screeps.com/)
