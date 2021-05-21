@@ -22,6 +22,7 @@ A curated list of algorithmic challenges websites.
 - [ROSALIND](http://rosalind.info/)
 - [Screeps](https://screeps.com/)
 - [smarterer](http://smarterer.com/tests/categories/Programming)
+- [TheHuxley](https://www.thehuxley.com/)
 - [topcoder](https://www.topcoder.com/challenges/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 - [CSSBattle](https://cssbattle.dev/)
