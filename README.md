@@ -2,6 +2,7 @@
 
 A curated list of algorithmic challenges websites.
 
+- [Advent of Code](https://adventofcode.com)
 - [CareerCup](https://www.careercup.com/page)
 - [CheckiO](http://www.checkio.org/)
 - [CodeCombat](https://codecombat.com/)
