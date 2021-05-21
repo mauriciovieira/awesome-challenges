@@ -11,6 +11,7 @@ A curated list of algorithmic challenges websites.
 - [Codewars](http://www.codewars.com/)
 - [Codility](https://codility.com/programmers/challenges/)
 - [CodinGame](https://www.codingame.com/start)
+- [CSSBattle](https://cssbattle.dev/)
 - [exercism.io](http://exercism.io/)
 - [Free Code Camp](https://www.freecodecamp.com/)
 - [HackerRank](https://www.hackerrank.com/)
