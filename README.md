@@ -23,6 +23,7 @@ A curated list of algorithmic challenges websites.
 - [smarterer](http://smarterer.com/tests/categories/Programming)
 - [topcoder](https://www.topcoder.com/challenges/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+- [CSSBattle](https://cssbattle.dev/)
 
 ## License
 
