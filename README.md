@@ -26,6 +26,7 @@ A curated list of algorithmic challenges websites.
 - [TheHuxley](https://www.thehuxley.com/)
 - [topcoder](https://www.topcoder.com/challenges/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+- [SoloLearn](https://www.sololearn.com)
 
 ## License
 
