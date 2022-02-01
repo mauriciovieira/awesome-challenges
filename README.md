@@ -17,18 +17,18 @@ A curated list of algorithmic challenges websites.
 - [exercism.io](http://exercism.io/)
 - [Free Code Camp](https://www.freecodecamp.com/)
 - [HackerRank](https://www.hackerrank.com/)
-- [InterviewBit](https://www.interviewbit.com/)
 - [Interview Cake](https://interviewcake.com/)
+- [InterviewBit](https://www.interviewbit.com/)
 - [Kattis](https://open.kattis.com/)
 - [LeetCode](https://leetcode.com/)
 - [Project Euler](https://projecteuler.net/)
 - [ROSALIND](http://rosalind.info/)
 - [Screeps](https://screeps.com/)
 - [smarterer](http://smarterer.com/tests/categories/Programming)
+- [SoloLearn](https://sololearn.com)
 - [TheHuxley](https://www.thehuxley.com/)
 - [topcoder](https://www.topcoder.com/challenges/)
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-- [SoloLearn](https://www.sololearn.com)
 
 ## License
 
