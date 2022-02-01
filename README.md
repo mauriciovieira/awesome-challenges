@@ -7,6 +7,7 @@ A curated list of algorithmic challenges websites.
 - [CheckiO](http://www.checkio.org/)
 - [CodeCombat](https://codecombat.com/)
 - [CodeFights](https://codefights.com/)
+- [Codeforces](https://codeforces.com/)
 - [CodeHunt](https://www.codehunt.com/)
 - [Codewars](http://www.codewars.com/)
 - [Codility](https://codility.com/programmers/challenges/)
