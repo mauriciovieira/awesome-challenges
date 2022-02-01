@@ -10,6 +10,7 @@ A curated list of algorithmic challenges websites.
 - [CodeHunt](https://www.codehunt.com/)
 - [Codewars](http://www.codewars.com/)
 - [Codility](https://codility.com/programmers/challenges/)
+- [Coding Mystery](https://codingmystery.com/)
 - [CodinGame](https://www.codingame.com/start)
 - [CSSBattle](https://cssbattle.dev/)
 - [exercism.io](http://exercism.io/)
